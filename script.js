@@ -1,0 +1,4 @@
+$(document).ready(function($) { 
+  $("#target").rollerblade({
+    sensitivity : 10,
+    imageArray:['./car/police0002.jpg', './car/police0003.jpg', './car/police0004.jpg', './car/police0005.jpg', './car/police0006.jpg', './car/police0007.jpg', './car/police0008.jpg', './car/police0009.jpg', './car/police0010.jpg', './car/police0011.jpg', './car/police0012.jpg', './car/police0013.jpg', './car/police0014.jpg', './car/police0015.jpg', './car/police0016.jpg', './car/police0017.jpg', './car/police0018.jpg', './car/police0019.jpg', './car/police0020.jpg', './car/police0021.jpg', './car/police0022.jpg' ]}); });
